@@ -1,6 +1,9 @@
-# chat_app
+# Simple Messaging App UI 
 
-A new Flutter project.
+# the app in building process for now the ui is complete 
+![image_processing20210302-16860-16pru8c](https://user-images.githubusercontent.com/57178026/214460084-5350922a-f0a2-4b5b-bb76-0a5d20036954.png)
+
+
 
 ## Getting Started
 
